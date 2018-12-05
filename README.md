@@ -1,2 +1,2 @@
 # todolist_lite
-TODO list
+django tutorial todo hoge ver1.0
